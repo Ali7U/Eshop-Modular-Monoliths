@@ -1,0 +1,11 @@
+global using Ordering.Orders.Events;
+global using Ordering.Orders.ValueObjects;
+global using Shared.DDD;
+global using Ordering.Orders.Models;
+global using Shared;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Ordering.Orders.Dtos;
+global using FluentValidation;
+global using Shared.Contracts.CQRS;
+global using Ordering.Data;

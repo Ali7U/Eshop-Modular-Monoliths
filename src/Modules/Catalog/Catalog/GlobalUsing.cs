@@ -1,0 +1,24 @@
+global using Shared.DDD;
+global using Catalog.Products.Models;
+global using Shared;
+global using System.Reflection;
+global using Microsoft.EntityFrameworkCore;
+global using Catalog.Data;
+global using Catalog.Products.Events;
+global using Shared.Data.Seed;
+global using Shared.Data;
+global using Catalog.Contracts.Products.Dtos;
+global using Catalog.Contracts.Products.Features;
+global using Shared.Contracts.CQRS;
+global using Mapster;
+global using MediatR;
+global using Microsoft.Extensions.Logging;
+global using Carter;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Routing;
+global using Microsoft.AspNetCore.Builder;
+global using FluentValidation;
+global using Catalog.Products.Exceptions;
+global using Shared.Exceptions;
+global using Shared.Pagination;
+

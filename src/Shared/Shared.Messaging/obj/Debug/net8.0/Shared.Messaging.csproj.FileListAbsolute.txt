@@ -1,0 +1,13 @@
+/Users/ali/net-backend/Eshop-Modular-Monoliths/src/Shared/Shared.Messaging/bin/Debug/net8.0/Shared.Messaging.deps.json
+/Users/ali/net-backend/Eshop-Modular-Monoliths/src/Shared/Shared.Messaging/bin/Debug/net8.0/Shared.Messaging.dll
+/Users/ali/net-backend/Eshop-Modular-Monoliths/src/Shared/Shared.Messaging/bin/Debug/net8.0/Shared.Messaging.pdb
+/Users/ali/net-backend/Eshop-Modular-Monoliths/src/Shared/Shared.Messaging/obj/Debug/net8.0/Shared.Messaging.csproj.AssemblyReference.cache
+/Users/ali/net-backend/Eshop-Modular-Monoliths/src/Shared/Shared.Messaging/obj/Debug/net8.0/Shared.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/net-backend/Eshop-Modular-Monoliths/src/Shared/Shared.Messaging/obj/Debug/net8.0/Shared.Messaging.AssemblyInfoInputs.cache
+/Users/ali/net-backend/Eshop-Modular-Monoliths/src/Shared/Shared.Messaging/obj/Debug/net8.0/Shared.Messaging.AssemblyInfo.cs
+/Users/ali/net-backend/Eshop-Modular-Monoliths/src/Shared/Shared.Messaging/obj/Debug/net8.0/Shared.Messaging.csproj.CoreCompileInputs.cache
+/Users/ali/net-backend/Eshop-Modular-Monoliths/src/Shared/Shared.Messaging/obj/Debug/net8.0/Shared.Messaging.sourcelink.json
+/Users/ali/net-backend/Eshop-Modular-Monoliths/src/Shared/Shared.Messaging/obj/Debug/net8.0/Shared.Messaging.dll
+/Users/ali/net-backend/Eshop-Modular-Monoliths/src/Shared/Shared.Messaging/obj/Debug/net8.0/refint/Shared.Messaging.dll
+/Users/ali/net-backend/Eshop-Modular-Monoliths/src/Shared/Shared.Messaging/obj/Debug/net8.0/Shared.Messaging.pdb
+/Users/ali/net-backend/Eshop-Modular-Monoliths/src/Shared/Shared.Messaging/obj/Debug/net8.0/ref/Shared.Messaging.dll

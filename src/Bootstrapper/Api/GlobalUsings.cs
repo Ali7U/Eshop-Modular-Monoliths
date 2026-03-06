@@ -1,0 +1,11 @@
+global using Catalog;
+global using Basket;
+global using Ordering;
+global using Carter;
+global using Microsoft.AspNetCore.Diagnostics;
+global using Microsoft.AspNetCore.Mvc;
+global using Shared.Exceptions.Handler;
+global using Shared.Extensions;
+global using Serilog;
+global using FluentValidation;
+global using Shared.Behaviors;
